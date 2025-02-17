@@ -3,7 +3,7 @@
 - 💻 Software Engineer | Full-Stack Developer | ML Enthusiast
 - 🚀 Passionate about building accessible tech & making fun projects! 
 - 📖 Currently studying **DSA (LeetCode)** and **Cloud Computing**
-- 🎯 Interested in **Full-Stack, Machine Learning, & Cybersecurity**
+- 🎯 Interested in **Full-Stack & Machine Learning**
 - 🌱 Open to work in **Software Engineering, ML Engineering, or Data Science roles**
 
 ---
