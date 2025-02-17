@@ -2,7 +2,7 @@
 - 🎓 Computer Science Graduate from Hunter College (Dec 2024)
 - 💻 Software Engineer | Full-Stack Developer | ML Enthusiast
 - 🚀 Passionate about building accessible tech & making fun projects! 
-- 📖 Currently studying **DSA (LeetCode)** and **Cloud Computing**
+- 📖 Currently studying **DSA (LeetCode)** and **Web Development**
 - 🎯 Interested in **Full-Stack & Machine Learning**
 - 🌱 Open to work in **Software Engineering, ML Engineering, or Data Science roles**
 
