@@ -26,9 +26,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tasmiachow)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://tasmiachow.github.io/Portfolio.github.io/)
 
+<!--
 ## GitHub Stats
 ![Tasmia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasmiachow&show_icons=true&theme=tokyonight)
-
+-->
 **📌 Profile README last updated: 6/18/25**
 <!--
 **tasmiachow/tasmiachow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
