@@ -26,12 +26,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://tasmiachow.github.io/Portfolio.github.io/)
 
 ## ⚡GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api?username=tasmiachow&rank_icon=github&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tasmiachow&rank_icon=github&theme=radical" />
-</a>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=synthwave">
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=synthwave"/>
 </a>
+<p align="center">
+  <img height =200 src = "https://github.com/user-attachments/assets/6db74a0f-2c19-47c3-997e-048e37cfd8bb"/>
+</p>
+
 
 **📌 Profile README last updated: 10/25/25**
 <!--
