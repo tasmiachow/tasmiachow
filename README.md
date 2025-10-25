@@ -3,7 +3,7 @@
 - 💻 Software Engineer | Full-Stack/Frontend Developer  
 - 🚀 I love building accessible tech and turning creative ideas into real, working applications!
 - 📖 Currently focused on **Data Structures & Algorithms (LeetCode)** and **Web Dev Projects**
-- 🎯 Especially interested in **Full-Stack Engineering**, with a growing passion for **AI & ML**
+- 🎯 Especially interested in **Full-Stack(Frontend) Engineering**, with a growing passion for **AI & ML**
 - 🌱 On the lookout for my next adventure in **Software Engineering!**
 
 ---
