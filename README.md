@@ -25,8 +25,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tasmiachow)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://tasmiachow.github.io/Portfolio.github.io/)
 
-
-![Video Project 8](https://github.com/user-attachments/assets/44a42610-1ca8-42ed-8324-ee41dda73720) 
+## ⚡GitHub Stats
+<a href="https://github-readme-stats.vercel.app/api?username=tasmiachow&rank_icon=github&theme=radical">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tasmiachow&rank_icon=github&theme=radical" />
+</a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=synthwave">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=synthwave"/>
+</a>
 
 **📌 Profile README last updated: 10/25/25**
 <!--
