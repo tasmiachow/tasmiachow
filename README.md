@@ -26,8 +26,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge)](https://tasmiachow.github.io/Portfolio.github.io/)
 
 
-## GitHub Stats
-![Tasmia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasmiachow&show_icons=true&theme=tokyonight)
 ![Video Project 8](https://github.com/user-attachments/assets/44a42610-1ca8-42ed-8324-ee41dda73720) 
 
 **📌 Profile README last updated: 10/25/25**
