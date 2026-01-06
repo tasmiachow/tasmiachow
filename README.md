@@ -1,9 +1,9 @@
 # Hi, I'm Tasmia 😄
 - 🎓 Computer Science Graduate from Hunter College (Jan 2025)
-- 💻 Software Engineer | Full-Stack/Frontend Developer  
+- 💻 Software Engineer | Frontend/Full-Stack Developer  
 - 🚀 I love building tech that's intuitive and easy to use!
 - 📖 Currently focused on **Data Structures & Algorithms (LeetCode)** and **Web Dev Projects**
-- 🎯 Especially interested in **Full-Stack/Frontend Engineering**, with a growing passion for integrating **AI & ML**
+- 🎯 Especially interested in **Frontend Engineering/Full-Stack**
 - 🌱 On the lookout for my next adventure in **Software Engineering!**
 
 ---
