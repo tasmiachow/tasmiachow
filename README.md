@@ -38,7 +38,7 @@
 </p>
 <br>
 <p align="center">
- <img width= "500" height="200" alt="procreate" src="https://github.com/user-attachments/assets/a3898461-cef3-4451-a0d0-0c0e3b45913b" />
+ <img width= "300" height="200" alt="procreate" src="https://github.com/user-attachments/assets/a3898461-cef3-4451-a0d0-0c0e3b45913b" />
 </p>
 
 
