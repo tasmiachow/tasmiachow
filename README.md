@@ -2,10 +2,10 @@
 - 🎓 Computer Science Graduate from Hunter College (Jan 2025)
 - 💻 Software Engineer  
 - 🚀 I love building tech that's intuitive and easy to use!
-- 📖 Currently focused on **Data Structures & Algorithms (LeetCode)** and **GenAI**
+- 📖 Currently focused on **Data Structures & Algorithms** and **GenAI**
 - 🎯 Especially interested in **Frontend Engineering/Full-Stack**
 - 🌱 On the lookout for my next adventure in **Software Engineering!**
-- 🎨 *Fun fact: My profile avatar is a digital self-portrait I drew by hand in Procreate!*
+- 🎨 *Fun fact: My profile picture is a digital self-portrait I drew by hand in Procreate!*
 
 ---
 
@@ -42,7 +42,7 @@
 </p>
 
 
-**📌 Profile README last updated: 10/25/25**
+**📌 Profile README last updated: 10/13/26**
 
 <!--
 **tasmiachow/tasmiachow**
