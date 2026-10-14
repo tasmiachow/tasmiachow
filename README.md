@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img alt="reference" src="https://github.com/user-attachments/assets/d37c9513-8b2c-45de-95bf-232f9b50bf46" height="200"/>
+      <img height="200" alt="reference" src="https://github.com/user-attachments/assets/d37c9513-8b2c-45de-95bf-232f9b50bf46" />
     </td>
     <td align="center">
       <img height="200" alt="optimized_portrait_gif" src="https://github.com/user-attachments/assets/e838ead3-3ec0-48eb-a4d5-be199581fa48" />
