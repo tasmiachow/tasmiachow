@@ -5,6 +5,7 @@
 - 📖 Currently focused on **Data Structures & Algorithms (LeetCode)** and **GenAI**
 - 🎯 Especially interested in **Frontend Engineering/Full-Stack**
 - 🌱 On the lookout for my next adventure in **Software Engineering!**
+- 🎨 *Fun fact: My profile avatar is a digital self-portrait I drew by hand in Procreate!*
 
 ---
 
@@ -29,6 +30,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ED64AF?style=for-the-badge)](https://tasmiachow.github.io/Portfolio.github.io/)
 
 ## ⚡GitHub Stats
+
 <p align ="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=cobalt">
     <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=cobalt"/>
@@ -36,7 +38,7 @@
 </p>
 <br>
 <p align="center">
-  <img height =200 src = "https://github.com/user-attachments/assets/6db74a0f-2c19-47c3-997e-048e37cfd8bb"/>
+ <img height="200" alt="procreate" src="https://github.com/user-attachments/assets/a3898461-cef3-4451-a0d0-0c0e3b45913b" />
 </p>
 
 
