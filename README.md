@@ -1,7 +1,7 @@
 # Hi, I'm Tasmia 😄
 - 🎓 Computer Science Graduate from Hunter College (Jan 2025)
 - 💻 Software Engineer  
-- 🚀 I love building tech that's intuitive and easy to use!
+- 🚀 I love building and designing tech that's easy to use!
 - 📖 Currently focused on **Data Structures & Algorithms** and **GenAI**
 - 🎯 Especially interested in **Frontend Engineering/Full-Stack**
 - 🌱 On the lookout for my next adventure in **Software Engineering!**
@@ -37,9 +37,25 @@
   </a>
 </p>
 <br>
-<p align="center">
- <img width= "300" height="200" alt="procreate" src="https://github.com/user-attachments/assets/a3898461-cef3-4451-a0d0-0c0e3b45913b" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Reference</b></td>
+    <td align="center"><b>Process</b></td>
+    <td align="center"><b>Final Illustration</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="reference" src="https://github.com/user-attachments/assets/d37c9513-8b2c-45de-95bf-232f9b50bf46" height="200"/>
+    </td>
+    <td align="center">
+      <img height="200" alt="optimized_portrait_gif" src="https://github.com/user-attachments/assets/e838ead3-3ec0-48eb-a4d5-be199581fa48" />
+    </td>
+    <td align="center">
+      <img height="200" alt="tasmia_portrait" src="https://github.com/user-attachments/assets/9bc60284-8db9-481f-958d-bc74bee99779" />
+    </td>
+  </tr>
+</table>
+
 
 
 **📌 Profile README last updated: 10/13/26**
