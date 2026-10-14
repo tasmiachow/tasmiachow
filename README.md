@@ -5,7 +5,7 @@
 - 📖 Currently focused on **Data Structures & Algorithms** and **GenAI**
 - 🎯 Especially interested in **Frontend Engineering/Full-Stack**
 - 🌱 On the lookout for my next adventure in **Software Engineering!**
-- 🎨 *Fun fact: My profile picture is a digital self-portrait I drew by hand in Procreate!*
+- 🎨 *Fun fact*: My profile picture is a digital self-portrait I drew by hand!
 
 ---
 
