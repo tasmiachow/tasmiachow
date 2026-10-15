@@ -34,9 +34,12 @@
 ## ⚡GitHub Stats
 
 <p align ="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=cobalt">
-    <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmiachow&theme=cobalt"/>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasmiachow&theme=radical">
+    <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasmiachow&theme=radical"/>
   </a>
+   <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tasmiachow&theme=radical">
+      <img height="200" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tasmiachow&theme=radical" />
+   </a>
 </p>
 <br>
 
