@@ -1,4 +1,4 @@
-# Hi, I'm Tasmia 😄
+# Hi, I'm Tasmia 😄👩🏻‍💻
 - 🎓 Computer Science Graduate from Hunter College (Jan 2025)
 - 💻 Software Engineer who loves building and designing tech that's easy to use!
 - 📖 Currently focused on **Data Structures & Algorithms** and **GenAI**
