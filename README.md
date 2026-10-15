@@ -33,14 +33,11 @@
 
 ## ⚡GitHub Stats
 
-<p align ="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasmiachow&theme=radical">
-    <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasmiachow&theme=radical"/>
-  </a>
-   <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tasmiachow&theme=radical">
-      <img height="200" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tasmiachow&theme=radical" />
-   </a>
+<p align="center">
+  <img height="200" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasmiachow&theme=radical" />
+  <img height="200" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tasmiachow&theme=radical" />
 </p>
+
 <br>
 
 ## 🖼️ Behind the Artwork
@@ -65,17 +62,4 @@
 
 
 
-**📌 Profile README last updated: 10/13/26**
-
-<!--
-**tasmiachow/tasmiachow**
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📌 Profile README last updated: 10/14/26**
